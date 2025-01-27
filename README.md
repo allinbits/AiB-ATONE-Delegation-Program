@@ -1,6 +1,7 @@
 # AiB ATONE Delegation Program
 
-## The application for the AiB ATONE Delegation Program is now closed. Application deadline for AiB ATONE Delegation Program (Cycle 1) was Jan 15, 2025 (11:59pm UTC). We will open the applications for Cycle 2 in June 2025.
+## The application for the AiB ATONE Delegation Program is now closed. 
+Application deadline for AiB ATONE Delegation Program (Cycle 1) was **Jan 15, 2025 (11:59pm UTC)**. We will open the applications for Cycle 2 in June 2025.
 
 The AiB ATONE Delegation Program is designed to recognise and reward both past and future contributions made by the AtomOne validators within the AtomOne ecosystem. The objective of the program is for AiB to contribute to a more decentralized, secure and community driven AtomOne ecosystem by incentivising validators who have made meaningful contributions and remain committed to the long-term success of the project. By ensuring a decentralized validator set, the program intends to help in further decentralizing the  distribution of economic and voting power.
 

@@ -1,8 +1,6 @@
 # AiB ATONE Delegation Program
 
-## The application for the AiB ATONE Delegation Program is now closed. 
-Application deadline for AiB ATONE Delegation Program (Cycle 1) was **Jan 15, 2025 (11:59pm UTC)**. 
-We will open the applications for Cycle 2 in June 2025.
+## The application deadline for the AiB ATONE Delegation Program has been extended to **Feb 4, 2025 (11:59pm UTC)**. 
 
 The AiB ATONE Delegation Program is designed to recognise and reward both past and future contributions made by the AtomOne validators within the AtomOne ecosystem. The objective of the program is for AiB to contribute to a more decentralized, secure and community driven AtomOne ecosystem by incentivising validators who have made meaningful contributions and remain committed to the long-term success of the project. By ensuring a decentralized validator set, the program intends to help in further decentralizing the  distribution of economic and voting power.
 
@@ -38,7 +36,7 @@ Validators interested in the delegation program are required to [fill out an iss
 
 10. **Know Your Customer (KYC) Verification**: Validators must be able to certify that they are not Restricted Persons as defined below by going through a KYC/KYB process on Synaps.   
 
-Applications will be reviewed in order to assign upcoming ATONE delegations which are intended to remain active for six months. The delegations will be competitive, and there is no guarantee of being selected. Validators are encouraged to be as detailed as possible in their applications, providing clear proof of their contributions and vision for future involvement. The deadline for the first round of the application is Jan 15, 2025 at 12pm UTC. 
+Applications will be reviewed in order to assign upcoming ATONE delegations which are intended to remain active for six months. The delegations will be competitive, and there is no guarantee of being selected. Validators are encouraged to be as detailed as possible in their applications, providing clear proof of their contributions and vision for future involvement. The deadline for the first round of the application is Feb 4, 2025 at 12pm UTC. 
 
 ### Who is eligible to apply for the program?
 
@@ -50,11 +48,14 @@ Every active validator is welcome to apply for the program, however the followin
 
 - Validators not actively participating in future AtomOne testnets.
 
-- Restricted Persons:
+- Restricted Persons are any natural person or legal entity who (i) resides, (ii) is located, (iii) is incorporated, or (iv) has a registered office in any Restricted Territory (as defined below).
 
-  - Any natural person or legal entity who (i) resides, (ii) is located, (iii) is incorporated, or (iv) has a registered office, in the United States of America or in any Restricted Territory (as defined below).
 
-  - Restricted Territories: Including, but not limited to, Afghanistan, Algeria, Angola, Bangladesh, Barbados, Belarus, Bulgaria, Burkina Faso, Burma (Myanmar), Cameroon, Central African Republic, China, Congo (Democratic Republic), Crimea Region of Ukraine, Cuba, Egypt, Ethiopia, Gibraltar, Haiti, Iran, Iraq, Jamaica, Lebanon, Libya, Mali, Morocco, Mozambique, Nepal, Nigeria, Non-EU Western Balkans (Bosnia and Herzegovina, Serbia, Montenegro, Kosovo, North Macedonia, Albania), North Korea, Pakistan, Philippines, Russia/Ukraine, Senegal, Somalia, South Africa, South Sudan, Syria, Tanzania, Turkey (Turkiye), Tunisia, Uganda, United Arab Emirates, United States, Venezuela, Vietnam, West Bank, Yemen, and Zimbabwe or any jurisdictions where the use of AtomOne's services would be illegal, prohibited, restricted, or unauthorized in whole or in part under applicable laws, regulations, or rules. This also includes any state, country, or region subject to sanctions enforced by the United States, such as the Specially Designated Nationals and Blocked Persons List ("SDN List") and Consolidated Sanctions List ("Non-SDN Lists"), the United Kingdom, the European Union, or jurisdictions under OFAC sanctions, FATF Black or Grey Lists, or other equivalent international sanctions (collectively, "Restricted Territories").
+  - Restricted Territories: Including, but not limited to, Afghanistan, Algeria,, Bangladesh, Belarus, Central African Republic, Congo (Democratic Republic), Cuba, Egypt, Haiti, Iran, Iraq, Lebanon, Libya, Morocco, Mozambique, Myanmar (Burma), Nepal, Nigeria, North Korea, Pakistan, Russia Senegal, Somalia, South Africa, South Sudan, Syria, Tanzania, Tunisia, Uganda, Venezuela, Yemen, and Zimbabwe or any jurisdictions where the use of AtomOne’s services would be illegal, prohibited, restricted, or unauthorized in whole or in part under applicable laws, regulations, or rules.
+    
+  - Restricted Territories also include any state, country, or region subject to sanctions enforced by the United States, such as the Specially Designated Nationals and Blocked Persons List (“SDN List”) and Consolidated Sanctions List (“Non-SDN Lists”), the United Kingdom, the European Union, or jurisdictions under OFAC sanctions, FATF Black List, FATF Grey List (where increased AML monitoring may be required), or other equivalent international sanctions (collectively, “Restricted Territories”).
+ 
+  - This list is subject to period review and may be updated from time to time to reflect changes in applicable laws, regulations, or international sanctions. Please check this list regularly to stay current with the most up-to-date restrictions. 
 
 - Please be aware that if your application to the ATONE Delegation Program is approved, you will be required to complete a KYC process before the delegation can be finalized. Full details and instructions regarding the KYC process will be provided as part of the program onboarding process.
 
@@ -62,11 +63,11 @@ Every active validator is welcome to apply for the program, however the followin
 
 - **Jan 8, 2025 -** Applications are open 
 
-- **Jan 15, 2025 (11:59pm UTC)  -** Application deadline for AiB ATONE Delegation Program (Cycle 1)
+- **Jan 15, 2025 (11:59pm UTC)  -** Application deadline for AiB ATONE Delegation Program (Cycle 1) - **Deadline extended to Feb 4, 2025.**
 
-- **Jan 28, 2025 -** Selected validators will be notified and will be required to provide documentation for KYC
+- **Feb 7, 2025 -** Selected validators will be notified and will be required to provide documentation for KYC
 
-- **Feb 4, 2025 - Feb 11, 2025 -** Selected validators will receive the delegation, upon successful verification and passing the KYC requirements. 
+- **Feb 11, 2025 - Feb 18, 2025 -** Selected validators will receive the delegation, upon successful verification and passing the KYC requirements. 
 
 ### Performance Review to ensure accountability and continued contribution 
 

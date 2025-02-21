@@ -70,7 +70,7 @@ Every active validator is welcome to apply for the program, however the followin
 
 - **Feb 7, 2025 -** Selected validators will be notified and will be required to provide documentation for KYC
 
-- **Feb 11, 2025 - Feb 18, 2025 -** Selected validators will receive the delegation, upon successful verification and passing the KYC requirements. **Timeline extended to Feb 19 - Feb 24 to allow extra time to finalise the KYC process.**
+- **Feb 11, 2025 - Feb 18, 2025 -** Selected validators will receive the delegation, upon successful verification and passing the KYC requirements. **Timeline extended to Feb 19 - Feb 25 to allow extra time to finalise the KYC process.**
 
 ### Performance Review to ensure accountability and continued contribution 
 

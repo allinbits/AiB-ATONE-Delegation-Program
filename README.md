@@ -3,7 +3,7 @@
 > [!NOTE]
 > The application for the AiB ATONE Delegation Program is closed.
 > The deadline was **Feb 4, 2025 (11:59pm UTC)**.
-> The timeline for receiving the delegation has changed to **Feb 11, 2025 - March 6, 2025 -** the KYC process will be finalized. Once verification is successfully completed and KYC requirements are met, the selected validators will receive their delegation shortly thereafter. 
+> The timeline for receiving the delegation has changed to **Feb 11, 2025 - March 4, 2025 -** the KYC process will be finalized. Once verification is successfully completed and KYC requirements are met, the selected validators will receive their delegation shortly thereafter. 
 
 The AiB ATONE Delegation Program is designed to recognise and reward both past and future contributions made by the AtomOne validators within the AtomOne ecosystem. The objective of the program is for AiB to contribute to a more decentralized, secure and community driven AtomOne ecosystem by incentivising validators who have made meaningful contributions and remain committed to the long-term success of the project. By ensuring a decentralized validator set, the program intends to help in further decentralizing the  distribution of economic and voting power.
 
@@ -70,7 +70,7 @@ Every active validator is welcome to apply for the program, however the followin
 
 - **Feb 7, 2025 -** Selected validators will be notified and will be required to provide documentation for KYC
 
-- **Feb 11, 2025 - March 6, 2025 -** the KYC process will be finalized. Once verification is successfully completed and KYC requirements are met, the selected validators will receive their delegation shortly thereafter. 
+- **Feb 11, 2025 - March 4, 2025 -** the KYC process will be finalized. Once verification is successfully completed and KYC requirements are met, the selected validators will receive their delegation shortly thereafter. 
 
 ### Performance Review to ensure accountability and continued contribution 
 

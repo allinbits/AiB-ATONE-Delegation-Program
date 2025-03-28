@@ -14,6 +14,7 @@
 | KalpaTech                                            | Level 1          | 159,473             |
 | StakeLab.zon                                         | Level 1          | 159,473             |
 | 01node                                               | Level 1          | 159,473             |
+| Forbole                                              | Level 1          | 159,473             |
 | sychonix                                             | Level 2          | 106,315             |
 | Revonode                                             | Level 2          | 106,315             |
 | KonsorTech                                           | Level 2          | 106,315             |

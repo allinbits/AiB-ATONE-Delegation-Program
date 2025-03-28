@@ -1,7 +1,7 @@
 # AiB ATONE Delegation Program
 
 > [!NOTE]
-> [Delegation List - Cycle I, 28 March 2025](./Delegations.md)
+> [Delegation List - Cycle I, 28 March 2025](./Delegations Cycle I, 28 March 2025.md)
 
 The AiB ATONE Delegation Program is designed to recognise and reward both past and future contributions made by the AtomOne validators within the AtomOne ecosystem. The objective of the program is for AiB to contribute to a more decentralized, secure and community driven AtomOne ecosystem by incentivising validators who have made meaningful contributions and remain committed to the long-term success of the project. By ensuring a decentralized validator set, the program intends to help in further decentralizing the  distribution of economic and voting power.
 

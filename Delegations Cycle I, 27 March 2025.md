@@ -11,7 +11,7 @@
 | GATA HUB                                             | Level 1          | 159,473             |
 | NyanCat                                              | Level 1          | 159,473             |
 | equinoxDAO                                           | Level 1          | 159,473             |
-| KalpaTech                                            | Level 1          | 159,473             |
+| KalpaTech                                            | Level 1          | 128,473             |
 | StakeLab.zon                                         | Level 1          | 159,473             |
 | 01node                                               | Level 1          | 159,473             |
 | Forbole                                              | Level 1          | 159,473             |
@@ -26,7 +26,7 @@
 | UTSA                                                 | Level 2          | 106,315             |
 | StakerHouse                                          | Level 2          | 106,315             |
 | Ubik Capital                                         | Level 2          | 106,315             |
-| Umbrella ☔                                           | Level 2          | 106,315             |
+| Umbrella ☔                                          | Level 2          | 106,315             |
 | Nodeist                                              | Level 2          | 106,315             |
 | Cogwheel                                             | Level 2          | 106,315             |
 | silent                                               | Level 2          | 106,315             |
@@ -37,7 +37,7 @@
 | STAVR                                                | Level 2          | 106,315             |
 | Apollo                                               | Level 2          | 106,315             |
 | PathrockNetw                                         | Level 2          | 106,315             |
-| AlxVoy ⚡ ANO...                                      | Level 2          | 106,315             |
+| AlxVoy ⚡ ANO...                                     | Level 2          | 106,315             |
 | ChainTools                                           | Level 2          | 106,315             |
 | SyaNodes                                             | Level 2          | 106,315             |
 | LuckyStar                                            | Level 2          | 106,315             |

@@ -1,4 +1,4 @@
-Validator                                            | Delegation Level | Delegation Received |
+| Validator                                            | Delegation Level | Delegation Received |
 |------------------------------------------------------|------------------|---------------------|
 | [NODERS]                                             | Level 1          | 159,473             |
 | POSTHUMAN                                            | Level 1          | 159,473             |
@@ -20,7 +20,7 @@ Validator                                            | Delegation Level | Delega
 | ITRocket                                             | Level 2          | 106,315             |
 | StakeUp                                              | Level 2          | 106,315             |
 | Chainroot                                            | Level 2          | 106,315             |
-| bitszn | valopers.com                                | Level 2          | 106,315             |
+| bitszn - valopers.com                                | Level 2          | 106,315             |
 | NodeJumper                                           | Level 2          | 106,315             |
 | UTSA                                                 | Level 2          | 106,315             |
 | StakerHouse                                          | Level 2          | 106,315             |
@@ -67,3 +67,15 @@ Validator                                            | Delegation Level | Delega
 | LinkedNode                                           | Level 4          | 47,252              |
 | owlstake                                             | Level 4          | 47,252              |
 | Ruangnode                                            | Level 4          | 47,252              |
+
+
+
+
+
+
+
+
+
+
+
+

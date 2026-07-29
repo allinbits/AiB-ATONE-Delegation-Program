@@ -1,3 +1,5 @@
+# Delegations Cycle I, 27 March 2025
+
 | Validator                                            | Delegation Level | Delegation Received |
 |------------------------------------------------------|------------------|---------------------|
 | [NODERS]                                             | Level 1          | 159,473             |

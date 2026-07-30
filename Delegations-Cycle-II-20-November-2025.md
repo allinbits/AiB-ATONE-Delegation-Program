@@ -20,10 +20,33 @@ Cycle II was executed on **20 November 2025** in two successful transactions:
 | 5933857 | 2025-11-20T22:10:09 | 38 `MsgBeginRedelegate` |
 | 5934176 | 2025-11-20T22:40:59 | 57 `MsgDelegate` |
 
+## Reconciling with the Cycle I document
+
+The "held before" figures here are larger than the amounts in
+[Cycle I](./Delegations-Cycle-I-27-March-2025.md). The difference is an **undocumented
+top-up delegated on 2 June 2025**, applied as a uniform **+28.96%** across all four tiers:
+
+| Tier | Cycle I document | June 2025 top-up | Held before Cycle II |
+|---|---:|---:|---:|
+| Level 1 | 159,473 | +46,183 | **205,656** |
+| Level 2 | 106,315 | +30,788 | **137,103** |
+| Level 3 | 70,877 | +20,525 | **91,402** |
+| Level 4 | 47,252 | +13,684 | **60,936** |
+
+In total the multisig has made five delegation events, of which one has been published:
+
+| Date | Event | Published |
+|---|---|---|
+| 2024-10-18 | 6 seed delegations of 278,000 each | no |
+| 2025-01-06 | 63 delegations, 3,359,979 ATONE | no |
+| 2025-03-27 | Cycle I | yes |
+| 2025-06-02 | uniform +28.96% top-up | no |
+| 2025-11-20 | Cycle II | no — reconstructed here |
+
 ## Validators removed in Cycle II — all for missing KYC
 
 Eleven validators held an AiB delegation before Cycle II and hold nothing after it,
-totalling **1,194,003 ATONE**. Every one of them has provided KYC.
+totalling **1,194,003 ATONE**. Every one of them has not provided KYC.
 
 | Validator | Score | KYC | Held before | Residual |
 |---|---:|---|---:|---:|

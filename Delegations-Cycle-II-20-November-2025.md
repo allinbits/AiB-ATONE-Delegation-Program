@@ -43,39 +43,70 @@ In total the multisig has made five delegation events, of which one has been pub
 | 2025-06-02 | uniform +28.96% top-up | no |
 | 2025-11-20 | Cycle II | no — reconstructed here |
 
-## Validators removed in Cycle II — all for missing KYC
+## Excluded from this cycle's delegation
 
-Eleven validators held an AiB delegation before Cycle II and hold nothing after it,
-totalling **1,194,003 ATONE**. Every one of them has not provided KYC.
+**49 of the 134 scored validators received nothing, and all 49 for the same reason: no
+Cycle II application was submitted.** Every validator that did apply was allocated — there
+is no validator in this cycle that applied and was turned down.
 
-| Validator | Score | KYC | Held before | Residual |
-|---|---:|---|---:|---:|
-| Forbole | 29.58 | No | 205,656 | 0 |
-| 01node | 29.43 | No | 205,656 | 1,152 uatone |
-| Crosnest | 28.60 | No | 205,656 | 927 uatone |
-| Neta DAO | 22.00 | No | 137,117 | 0 |
-| Chainroot | 16.32 | No | 137,103 | 0 |
-| interchain.FM🥩 | 16.18 | No | 120,000 | 816 uatone |
-| Onbloc Node | 20.44 | No | 60,936 | 0 |
-| SIPALING-TESTNET | 7.34 | No | 60,942 | 0 |
-| tRDM \| Nodera | 14.48 | No | 60,936 | 1,052 uatone |
-| nylira.net | 15.00 | No | 1 | 0 |
-| FIVETECH | 10.00 | No | 0 | 0 |
-| | | | **1,194,003** | |
+Between them they held **1,194,003 ATONE** before Cycle II — 81% of all stake redelegated
+in the cycle. The remaining ~280,587 ATONE of movement came from trimming applicants whose
+score-derived target fell below what they already held.
 
-Residual dust of a few hundred uatone is rounding left by the redelegation, not an
-intentional allocation.
+| Validator | Score | Held before | Active today | Rationale |
+|---|---:|---:|---|---|
+| Forbole | 29.58 | 205,656 | yes | Did not submit an application |
+| 01node | 29.43 | 205,656 | yes | Did not submit an application |
+| Crosnest | 28.60 | 205,656 | yes | Did not submit an application |
+| Neta DAO | 22.00 | 137,117 | no | Did not submit an application |
+| Chainroot | 16.32 | 137,103 | no | Did not submit an application |
+| interchain.FM🥩 | 16.18 | 120,000 | no | Did not submit an application |
+| SIPALING-TESTNET | 7.34 | 60,942 | no | Did not submit an application |
+| Onbloc Node | 20.44 | 60,936 | yes | Did not submit an application |
+| tRDM \| Nodera | 14.48 | 60,936 | no | Did not submit an application |
+| nylira.net | 15.00 | 1 | yes | Did not submit an application; also ineligible (>3.5% voting power) |
+| FIVETECH | 10.00 | 0 | no | Did not submit an application |
+| Noderunners | 30.15 | — | no | Did not submit an application |
+| WeStaking | 26.74 | — | yes | Did not submit an application |
+| SolidarityNode | 26.45 | — | yes | Did not submit an application |
+| OWALLET | 25.63 | — | no | Did not submit an application |
+| Antrix Validators | 19.00 | — | no | Did not submit an application |
+| Scafire Node 5% Fee REStake ❤️ | 18.20 | — | no | Did not submit an application |
+| Akat\|Suki | 17.56 | — | yes | Did not submit an application |
+| Crypto Plant | 16.58 | — | yes | Did not submit an application |
+| qwerty-validator | 15.00 | — | no | Did not submit an application |
+| Quebec | 14.11 | — | no | Did not submit an application |
+|  AutoStake 🛡️ Slash Protected | 14.08 | — | no | Did not submit an application |
+| DragonStake 🐲 | 13.00 | — | yes | Did not submit an application; also ineligible (>3.5% voting power) |
+| Zuka | 12.00 | — | no | Did not submit an application |
+| SG-1 | 12.00 | — | yes | Did not submit an application; also ineligible (>3.5% voting power) |
+| ProMEX Hub | 11.00 | — | yes | Did not submit an application |
+| Parity.Zone | 10.00 | — | no | Did not submit an application |
+| Murphynode | 10.00 | — | no | Did not submit an application |
+| HEXXAGON | 10.00 | — | no | Did not submit an application |
+| Swissstar | 10.00 | — | no | Did not submit an application |
+| CryptoDungeon | 10.00 | — | yes | Did not submit an application |
+| Nokogirisrv | 10.00 | — | no | Did not submit an application |
+| ValiDAO | 10.00 | — | no | Did not submit an application |
+| p10node | 10.00 | — | no | Did not submit an application |
+| Deni13x | 10.00 | — | no | Did not submit an application |
+| FIVETECH | 10.00 | — | no | Did not submit an application |
+| Shadow Sakura 🌸 | 10.00 | — | no | Did not submit an application |
+| DKCMC | 8.00 | — | yes | Did not submit an application; also ineligible (>3.5% voting power) |
+| Somatic Labs | 4.00 | — | no | Did not submit an application |
+| Inotel | 4.00 | — | yes | Did not submit an application; also ineligible (>3.5% voting power) |
+| CloudByte | 3.00 | — | yes | Did not submit an application; also ineligible (>3.5% voting power) |
+| DSRV | 2.00 | — | no | Did not submit an application; also ineligible (>3.5% voting power) |
+| DvlNode | 1.00 | — | no | Did not submit an application |
+| Allnodes | 0.00 | — | yes | Did not submit an application; also ineligible (>3.5% voting power) |
+| Validotgo | 0.00 | — | no | Did not submit an application |
+| stackdump | 0.00 | — | no | Did not submit an application |
+| optimulabs ( cosmosAf) | 0.00 | — | no | Did not submit an application |
+| RPCdot.com | 0.00 | — | no | Did not submit an application |
+| MAHOF | 0.00 | — | no | Did not submit an application |
 
-Score was not the deciding factor. Forbole scored 29.58, 01node 29.43 and Crosnest 28.60
-— all above the cohort median of 28.77 or within a whisker of it — and all three were
-removed in full, while validators scoring 3.00 and 7.87 kept and grew their allocations.
-Forbole is bonded, unjailed and holds 1,561,926 ATONE today; nothing about its operation
-explains the removal.
-
-This is the source of most of Cycle II's movement: **1,193,922 of the 1,474,509 ATONE
-redelegated (81%) came from these eleven**. The remaining ~280,587 came from partial
-reductions of KYC'd validators whose score-derived target fell below what they already
-held.
+Residual dust of a few hundred uatone remains on some of these delegations — rounding
+left by the redelegation, not an intentional allocation.
 
 ## Allocation table
 
